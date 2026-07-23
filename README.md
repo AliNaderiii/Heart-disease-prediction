@@ -1,6 +1,6 @@
 # Heart Disease Prediction | Clinical ML Portfolio
 
-![Project Banner](assets/screenshots/dashboard-preview.png)
+[![Project Banner](assets/screenshots/dashboard-preview.png)](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 **Advanced Machine Learning pipeline for early detection of cardiovascular disease using the UCI Cleveland Heart Disease Dataset.**
 
